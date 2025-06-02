@@ -1,0 +1,8 @@
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component D1 LED RED
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component D2 LED YELLOW
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component D3 LED GREEN
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component P1 Header 1
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component R1 200
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component R2 200
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component R3 200
+Added Member To Class: ClassName=SCH_TRAFFICLIGHT Member=Component U1 Arduino Nano

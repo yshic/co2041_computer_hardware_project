@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TrafficLight.PrjPcb]
+   Generated File[PCB_TRAFFICLIGHT.GTO]
+   Generated File[PCB_TRAFFICLIGHT.GTP]
+   Generated File[PCB_TRAFFICLIGHT.GTS]
+   Generated File[PCB_TRAFFICLIGHT.GTL]
+   Generated File[PCB_TRAFFICLIGHT.GBL]
+   Generated File[PCB_TRAFFICLIGHT.GBS]
+   Generated File[PCB_TRAFFICLIGHT.GBP]
+   Generated File[PCB_TRAFFICLIGHT.GBO]
+   Generated File[PCB_TRAFFICLIGHT.GM1]
+   Generated File[PCB_TRAFFICLIGHT.GM2]
+   Generated File[PCB_TRAFFICLIGHT.GM4]
+   Generated File[PCB_TRAFFICLIGHT.GM6]
+   Generated File[PCB_TRAFFICLIGHT.GM8]
+   Generated File[PCB_TRAFFICLIGHT.GM10]
+   Generated File[PCB_TRAFFICLIGHT.GM13]
+   Generated File[PCB_TRAFFICLIGHT.GM15]
+   Generated File[PCB_TRAFFICLIGHT.GM16]
+   Generated File[PCB_TRAFFICLIGHT.GM24]
+   Generated File[PCB_TRAFFICLIGHT.GKO]
+   Generated File[PCB_TRAFFICLIGHT.GPT]
+   Generated File[PCB_TRAFFICLIGHT.GPB]
+   Generated File[PCB_TRAFFICLIGHT.1]
+   Generated File[PCB_TRAFFICLIGHT.GML]
+   Generated File[PCB_TRAFFICLIGHT.GD1]
+   Generated File[PCB_TRAFFICLIGHT.GG1]
+   Generated File[PCB_TRAFFICLIGHT.GM]
+   Generated File[PCB_TRAFFICLIGHT.EXTREP]
+   Generated File[PCB_TRAFFICLIGHT.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 12:56:07 AM On 6/1/2025
